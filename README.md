@@ -20,7 +20,7 @@ Follow these steps to get started with the Morse app:
 
 1. Clone the repository from GitHub:
    ```
-    https://github.com/DanielU987/Mobile-morse-app
+    https://github.com/DanielU987/Mobile-morse-app.git
    ```
 3. Open Android Studio and select "Open an existing Android Studio project."
 4. Navigate to the cloned directory and select the project.
